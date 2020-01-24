@@ -1,2 +1,3 @@
 # hello-world
-short decription of Hello-world project
+Hi, men!
+I'm triyng use Git!
